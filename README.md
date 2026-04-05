@@ -188,4 +188,3 @@ The service delegates sea state verification to the sea-state-service. This sepa
 
 ## License
 
-Part of the Exodus Rush CTF Challenge - Bonez Platform
